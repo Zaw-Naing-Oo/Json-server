@@ -1,0 +1,40 @@
+{
+    "events" : [ 
+
+     { 
+       "id" : 5555555,
+      "category ": "animal welfare'",
+      "title" : "Cat abdotion Day",
+      "description" : "Find your new feline friend at this event",
+      "location" : "yangon",
+      "date" : "january 28, 2022",
+      "time ": "12:00",
+     " petsAllowed" : true,
+     " origanizer"  : "Zaw Naing Oo"
+      },
+      { 
+        "id" : 2222222,
+       "category ": "animal welfare'",
+       "title" : "Dog abdotion Day",
+       "description" : "Find your new feline friend at this event",
+       "location" : "Mandalay",
+       "date" : "january 28, 2022",
+       "time ": "1:00",
+      " petsAllowed" : true,
+      " origanizer"  : "Zaw Naing Oo"
+       },
+       { 
+        "id" : 6666666,
+       "category ": "animal welfare'",
+       "title" : "Mouse abdotion Day",
+       "description" : "Find your new feline friend at this event",
+       "location" : "Ye",
+       "date" : "january 28, 2022",
+       "time ": "3:00",
+      " petsAllowed" : true,
+      " origanizer"  : "Zaw Naing Oo"
+       }
+      
+
+     ]
+  }
