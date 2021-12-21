@@ -13,6 +13,7 @@ import EventService from "@/services/EventService.js";
 
 export default {
   name: "EventList",
+  props : ['page'],
   components: {
     EventCard,
   },
@@ -24,7 +25,7 @@ export default {
  },
 
  created () {
-    EventService.getEvents()
+    EventService.getEvents(2,this.page)
     .then( response => {
       this.events = response.data
     })
